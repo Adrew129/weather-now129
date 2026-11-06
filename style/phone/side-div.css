@@ -1,0 +1,15 @@
+@media only screen and (max-width: 400px) {
+
+.side-div{
+    padding:auto;
+    background-color: rgb(39, 30, 66) ;
+    height: 86%;
+    overflow-y: scroll;
+    margin: 0px;
+    width: 90%;
+    font-size: 14px;
+    
+}
+
+
+}
